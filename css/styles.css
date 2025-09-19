@@ -402,6 +402,7 @@ address {
 
 .footer-description {
   max-width: 264px;
+  min-width: 264px;
   margin-right: 120px;
 }
 
