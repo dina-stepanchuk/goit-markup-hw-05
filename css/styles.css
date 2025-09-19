@@ -402,7 +402,6 @@ address {
 
 .footer-description {
   max-width: 264px;
-  min-width: 264px;
   margin-right: 120px;
 }
 
@@ -486,7 +485,6 @@ address {
   display: flex;
   gap: 24px;
   margin-left: 80px;
-  margin-right: 159px;
 }
 
 .subscribe-input {
