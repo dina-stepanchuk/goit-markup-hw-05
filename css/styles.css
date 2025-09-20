@@ -709,7 +709,6 @@ address {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
   align-items: center;
 }
 
@@ -720,7 +719,7 @@ address {
   color: #4d5ae5;
 }
 
-span.modal-checkbox {
+.modal-checkbox {
   display: inline-flex;
   align-items: center;
   justify-content: center;
